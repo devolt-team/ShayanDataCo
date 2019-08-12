@@ -104,8 +104,12 @@ A. Basic Styling
 
 body {
   direction: rtl !important;
-  font-family: 'Vazir';
+  font-family: 'Vazir' !important;
   text-align: right;
+}
+
+* {
+  font-family: 'Vazir' !important;
 }
 
 .balatarin-banner {
