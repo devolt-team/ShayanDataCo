@@ -156,6 +156,10 @@ body.ts-theme-light .ts-shapes-canvas:after {
   opacity: 0.1;
 }
 
+.ts-close-side-panel {
+  font-family: Font awesome\ 5 Brands !important;
+}
+
 body.ts-theme-light p {
   color: rgba(25, 25, 25, 0.6);
 }
@@ -167,6 +171,7 @@ body.ts-theme-light h2 {
 body.ts-theme-light .ts-social-icons a {
   color: #191919;
   opacity: 0.6;
+  font-family: Font awesome\ 5 Brands !important;
 }
 
 body.ts-theme-light .ts-social-icons a:hover {
